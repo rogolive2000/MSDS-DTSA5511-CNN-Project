@@ -1,6 +1,7 @@
 # MSDS-DTSA5511-CNN-Project
 
 Project Description and Objective
+
 The ojective of this project is to develop a convolutional neural network (CNN) algorithm to accurately identify metastatic cancer in small image patches extracted from larger digital pathology scans. Metastatic cancer is a condition where cancer cells spread from the primary site of origin to other parts of the body. The detection of metastatic cancer is critical for proper diagnosis and treatment of cancer patients.
 
 The algorithm will be trained on a large dataset of digitized histopathology images, consisting of both cancerous and non-cancerous tissue samples. The dataset will be pre-processed to extract small image patches of the tissue samples, which will be used as inputs for the CNN.
